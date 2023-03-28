@@ -1,0 +1,7 @@
+{
+  "name": "aulas-ionic-ifrn",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
